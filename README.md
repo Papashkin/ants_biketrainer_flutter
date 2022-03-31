@@ -1,6 +1,6 @@
 # ants_biketrainer_flutter
 
-A new Flutter project.
+A cross-platform bike trainer app (Flutter)
 
 ## Getting Started
 
