@@ -36,6 +36,8 @@ dependencies:
 
   # Flutter splash screen lib (https://pub.dev/packages/flutter_native_splash)
   flutter_native_splash: ^2.1.2+1
+  shared_preferences: 2.0.13
+  provider: 6.0.2
 
 dev_dependencies:
   flutter_test:
